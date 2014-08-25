@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\2-ReversingUsingStack\bin\Debug\2-ReversingUsingStack.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\2-ReversingUsingStack\bin\Debug\2-ReversingUsingStack.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\2-ReversingUsingStack\bin\Debug\2-ReversingUsingStack.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\2-ReversingUsingStack\obj\Debug\2-ReversingUsingStack.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\2-ReversingUsingStack\obj\Debug\2-ReversingUsingStack.pdb

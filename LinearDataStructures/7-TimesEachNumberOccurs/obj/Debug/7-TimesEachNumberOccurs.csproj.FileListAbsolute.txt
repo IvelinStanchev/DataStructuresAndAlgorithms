@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\7-TimesEachNumberOccurs\bin\Debug\7-TimesEachNumberOccurs.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\7-TimesEachNumberOccurs\bin\Debug\7-TimesEachNumberOccurs.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\7-TimesEachNumberOccurs\bin\Debug\7-TimesEachNumberOccurs.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\7-TimesEachNumberOccurs\obj\Debug\7-TimesEachNumberOccurs.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\7-TimesEachNumberOccurs\obj\Debug\7-TimesEachNumberOccurs.pdb
