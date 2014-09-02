@@ -1,0 +1,8 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\bin\Debug\2-FastFinding.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\bin\Debug\2-FastFinding.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\bin\Debug\2-FastFinding.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\bin\Debug\PowerCollections.dll
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\bin\Debug\PowerCollections.xml
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\obj\Debug\2-FastFinding.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\obj\Debug\2-FastFinding.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\2-FastFinding\obj\Debug\2-FastFinding.pdb

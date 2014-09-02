@@ -1,0 +1,7 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\1-PriorityQueue\1-PriorityQueue\bin\Debug\1-PriorityQueue.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\1-PriorityQueue\bin\Debug\1-PriorityQueue.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\1-PriorityQueue\bin\Debug\1-PriorityQueue.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\1-PriorityQueue\bin\Debug\1-PriorityQueue.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\1-PriorityQueue\obj\Debug\1-PriorityQueue.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\1-PriorityQueue\obj\Debug\1-PriorityQueue.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\AdvancedDataStructures\AdvancedDataStructures\1-PriorityQueue\obj\Debug\1-PriorityQueue.pdb
