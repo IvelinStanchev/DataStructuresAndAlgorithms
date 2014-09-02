@@ -1,0 +1,25 @@
+long CalcCount(int[,] matrix)
+{
+    long count = 0;
+    for (int row = 0; row < matrix.GetLength(0); row++)
+	{
+        if (matrix[row, 0] % 2 == 0)
+		{
+            for (int col = 0; col < matrix.GetLength(1); col++)
+			{
+                if (matrix[row,col] > 0)
+				{
+                    count++;
+				}
+			}
+		}
+	}
+	
+    return count;
+}
+
+The complexity will be O(n*m) because the first for cycle will be executed n times and nested for cycle will be executed z times. 
+Z depends on the number of even numbers in the matrix. That way we will have three case: 
+-Best case - when there are no even numbers in the matrix -> the nested loop will be executed 0 times and the complexity will be O(n).
+-Worst case - when all numbers in the matrix are even -> the nested loop will be executed m times and the complexity will be O(n*m).
+-Average case - when half of the numbers in the matrix are even -> the nested loop will be executed m/2 times and the complexity will be n*m/2 which is O(n*m)

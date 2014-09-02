@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-ATreeOfNNodes\bin\Debug\1-a-ReadTheTreeAndFindTheRootNode.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-ATreeOfNNodes\bin\Debug\1-a-ReadTheTreeAndFindTheRootNode.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-ATreeOfNNodes\bin\Debug\1-a-ReadTheTreeAndFindTheRootNode.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-ATreeOfNNodes\obj\Debug\1-ATreeOfNNodes.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-ATreeOfNNodes\obj\Debug\1-a-ReadTheTreeAndFindTheRootNode.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-ATreeOfNNodes\obj\Debug\1-a-ReadTheTreeAndFindTheRootNode.pdb

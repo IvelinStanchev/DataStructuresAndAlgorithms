@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\2-TraverseADirectory\bin\Debug\2-TraverseADirectory.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\2-TraverseADirectory\bin\Debug\2-TraverseADirectory.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\2-TraverseADirectory\bin\Debug\2-TraverseADirectory.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\2-TraverseADirectory\obj\Debug\2-TraverseADirectory.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\2-TraverseADirectory\obj\Debug\2-TraverseADirectory.pdb

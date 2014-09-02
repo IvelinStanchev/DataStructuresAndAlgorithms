@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\1-SequenceOfPositiveNumbers\bin\Debug\LinearDataStructures.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\1-SequenceOfPositiveNumbers\bin\Debug\LinearDataStructures.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\1-SequenceOfPositiveNumbers\bin\Debug\LinearDataStructures.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\1-SequenceOfPositiveNumbers\obj\Debug\1-SequenceOfPositiveNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\1-SequenceOfPositiveNumbers\obj\Debug\LinearDataStructures.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\1-SequenceOfPositiveNumbers\obj\Debug\LinearDataStructures.pdb

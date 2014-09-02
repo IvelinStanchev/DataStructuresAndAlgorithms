@@ -1,0 +1,25 @@
+long Compute(int[] arr)
+{
+    long count = 0;
+    for (int i = 0; i < arr.Length; i++)
+    {
+        int start = 0, end = arr.Length-1;
+        while (start < end)
+		{
+            if (arr[start] < arr[end])
+            { 
+				start++; 
+				count++; 
+			}
+			else 
+			{
+                end--;
+			{
+		}
+	}
+	
+    return count;
+}
+
+Here the complexity is n*n (O(n*n)) because the for cycle loops n times and the while cycle loops again n times 
+(At every loop in the while cycle the difference between start and end lowers)

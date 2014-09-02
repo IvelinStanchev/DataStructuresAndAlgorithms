@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\5-SetImplementation\bin\Debug\5-SetImplementation.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\5-SetImplementation\bin\Debug\5-SetImplementation.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\5-SetImplementation\bin\Debug\5-SetImplementation.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\5-SetImplementation\obj\Debug\5-SetImplementation.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\5-SetImplementation\obj\Debug\5-SetImplementation.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\5-SetImplementation\obj\Debug\5-SetImplementation.pdb

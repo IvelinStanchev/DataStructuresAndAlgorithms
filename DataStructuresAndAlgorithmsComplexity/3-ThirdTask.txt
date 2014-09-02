@@ -1,0 +1,20 @@
+long CalcSum(int[,] matrix, int row)
+{
+    long sum = 0;
+	
+    for (int col = 0; col < matrix.GetLength(1); col++)
+	{
+        sum += matrix[row, col];
+	}
+	
+	if (row + 1 < matrix.GetLength(0))
+	{
+		sum += CalcSum(matrix, row + 1);
+	}
+	
+    return sum;
+}
+
+Console.WriteLine(CalcSum(matrix, 0));
+
+The complexity is O(n*m) because the for cycle loops m times and the recursion executes n - 1 times which is n.

@@ -1,0 +1,7 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\1-CountsOccurrences\1-CountsOccurrences\bin\Debug\1-CountsOccurrences.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\1-CountsOccurrences\bin\Debug\1-CountsOccurrences.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\1-CountsOccurrences\bin\Debug\1-CountsOccurrences.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\1-CountsOccurrences\bin\Debug\1-CountsOccurrences.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\1-CountsOccurrences\obj\Debug\1-CountsOccurrences.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\1-CountsOccurrences\obj\Debug\1-CountsOccurrences.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\DictionariesHashTablesAndSets\DictionariesHashTablesAndSets\1-CountsOccurrences\obj\Debug\1-CountsOccurrences.pdb

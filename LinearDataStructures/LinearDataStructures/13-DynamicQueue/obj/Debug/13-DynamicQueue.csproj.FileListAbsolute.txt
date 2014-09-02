@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\13-DynamicQueue\bin\Debug\13-DynamicQueue.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\13-DynamicQueue\bin\Debug\13-DynamicQueue.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\13-DynamicQueue\bin\Debug\13-DynamicQueue.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\13-DynamicQueue\obj\Debug\13-DynamicQueue.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\13-DynamicQueue\obj\Debug\13-DynamicQueue.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\13-DynamicQueue\obj\Debug\13-DynamicQueue.pdb

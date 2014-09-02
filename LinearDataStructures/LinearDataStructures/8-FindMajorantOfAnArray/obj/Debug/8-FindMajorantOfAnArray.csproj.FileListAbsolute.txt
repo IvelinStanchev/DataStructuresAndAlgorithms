@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\8-FindMajorantOfAnArray\bin\Debug\8-FindMajorantOfAnArray.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\8-FindMajorantOfAnArray\bin\Debug\8-FindMajorantOfAnArray.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\8-FindMajorantOfAnArray\bin\Debug\8-FindMajorantOfAnArray.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\8-FindMajorantOfAnArray\obj\Debug\8-FindMajorantOfAnArray.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\8-FindMajorantOfAnArray\obj\Debug\8-FindMajorantOfAnArray.pdb

@@ -1,0 +1,2 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\1-a-ReadTheTreeAndFindTheRootNode\1-a-ReadTheTreeAndFindTheRootNode\bin\Debug\1-a-ReadTheTreeAndFindTheRootNode.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\TreesAndTraversals\TreesAndTraversals\1-a-ReadTheTreeAndFindTheRootNode\bin\Debug\1-a-ReadTheTreeAndFindTheRootNode.exe.config

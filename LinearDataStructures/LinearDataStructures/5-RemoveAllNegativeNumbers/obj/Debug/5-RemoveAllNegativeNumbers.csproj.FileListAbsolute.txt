@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\5-RemoveAllNegativeNumbers\bin\Debug\5-RemoveAllNegativeNumbers.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\5-RemoveAllNegativeNumbers\bin\Debug\5-RemoveAllNegativeNumbers.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\5-RemoveAllNegativeNumbers\bin\Debug\5-RemoveAllNegativeNumbers.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\5-RemoveAllNegativeNumbers\obj\Debug\5-RemoveAllNegativeNumbers.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\LinearDataStructures\LinearDataStructures\5-RemoveAllNegativeNumbers\obj\Debug\5-RemoveAllNegativeNumbers.pdb
