@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\6-AllSubsetsOfKStrings\bin\Debug\6-AllSubsetsOfKStrings.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\6-AllSubsetsOfKStrings\bin\Debug\6-AllSubsetsOfKStrings.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\6-AllSubsetsOfKStrings\bin\Debug\6-AllSubsetsOfKStrings.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\6-AllSubsetsOfKStrings\obj\Debug\6-AllSubsetsOfKStrings.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\6-AllSubsetsOfKStrings\obj\Debug\6-AllSubsetsOfKStrings.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\6-AllSubsetsOfKStrings\obj\Debug\6-AllSubsetsOfKStrings.pdb

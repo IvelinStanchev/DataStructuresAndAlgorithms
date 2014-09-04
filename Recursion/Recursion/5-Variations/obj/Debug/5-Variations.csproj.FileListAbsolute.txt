@@ -1,0 +1,5 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\5-Variations\bin\Debug\5-Variations.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\5-Variations\bin\Debug\5-Variations.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\5-Variations\bin\Debug\5-Variations.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\5-Variations\obj\Debug\5-Variations.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\5-Variations\obj\Debug\5-Variations.pdb

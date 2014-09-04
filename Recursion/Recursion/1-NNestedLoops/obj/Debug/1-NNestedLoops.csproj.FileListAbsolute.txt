@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\1-NNestedLoops\bin\Debug\1-NNestedLoops.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\1-NNestedLoops\bin\Debug\1-NNestedLoops.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\1-NNestedLoops\bin\Debug\1-NNestedLoops.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\1-NNestedLoops\obj\Debug\1-NNestedLoops.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\1-NNestedLoops\obj\Debug\1-NNestedLoops.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\1-NNestedLoops\obj\Debug\1-NNestedLoops.pdb

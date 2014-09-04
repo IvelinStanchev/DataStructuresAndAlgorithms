@@ -1,0 +1,6 @@
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\4-Permutations\bin\Debug\4-Permutations.exe.config
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\4-Permutations\bin\Debug\4-Permutations.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\4-Permutations\bin\Debug\4-Permutations.pdb
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\4-Permutations\obj\Debug\4-Permutations.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\4-Permutations\obj\Debug\4-Permutations.exe
+D:\Telerik\Homework\DataStructuresAndAlgorithms\Recursion\Recursion\4-Permutations\obj\Debug\4-Permutations.pdb
